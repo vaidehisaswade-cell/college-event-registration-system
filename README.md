@@ -1,3 +1,8 @@
+## Live Demo
+[Open College Event Registration System](https://college-event-registration-system.streamlit.app/)
+
+## GitHub Repository
+[View Source Code](https://github.com/vaidehisaswade-cell/college-event-registration-system)
 # College Event Registration System (DBMS TAE-2)
 
 ## Tech stack
